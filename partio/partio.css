@@ -1,3 +1,6 @@
 body{
     background-color: rgb(35, 138, 35);
 }
+.card{
+    margin: auto;
+}

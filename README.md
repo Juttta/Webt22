@@ -4,7 +4,7 @@ Neljä web sivua:
 Etusivu:
   Dropdown listassa luennoilta otettuja asioita
 
-Partio:
+Partio:fire::
   Muutama kuva keskellä sivua. Kaikki kuvat liittyvät peruspartiotoimintaan. Kuvien alla on lyhyet kuvatekstit partiosta liittyen kuviin.
   
 Harrastukset:
